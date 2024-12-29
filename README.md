@@ -16,7 +16,7 @@ Clone o repositório do projeto com o comando:
 
 ```bash
 git clone https://github.com/feliperuedas19/desafio-tecnico.git
-cd desafio-tecnico
+cd desafio-cypress
 ```
 
 ## Instalar Dependências
